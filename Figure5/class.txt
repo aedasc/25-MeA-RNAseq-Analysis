@@ -1,0 +1,8 @@
+Sample	Class
+c1	control
+c2	control
+c3	control
+p1	VT
+p2	VT
+p3	VT
+
